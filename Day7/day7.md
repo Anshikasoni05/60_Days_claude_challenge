@@ -65,14 +65,6 @@ This combination offers an excellent balance between reasoning quality, response
 
  <img width="1085" height="559" alt="image" src="https://github.com/user-attachments/assets/01db30d8-82b4-43bc-8a88-16b248b3f329" />
 
-## Repository Structure
-
-Day7/
-│── day7.md
-│── screenshots/
-│ ├── task-page.png
-│ └── claude-strategy.png
-
 ## What I Learned Today
 
 Today's task helped me understand that selecting the right AI model is just as important as asking the right prompt. By matching the model and effort level to the complexity of the task, I can improve productivity, save usage limits, and get more effective results.
